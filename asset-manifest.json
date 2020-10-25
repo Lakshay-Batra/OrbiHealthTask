@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/OrbiHealthTask/static/css/main.d7fb6431.chunk.css",
+    "main.js": "/OrbiHealthTask/static/js/main.956ec0f6.chunk.js",
+    "main.js.map": "/OrbiHealthTask/static/js/main.956ec0f6.chunk.js.map",
+    "runtime-main.js": "/OrbiHealthTask/static/js/runtime-main.1401d416.js",
+    "runtime-main.js.map": "/OrbiHealthTask/static/js/runtime-main.1401d416.js.map",
+    "static/js/2.192bb8de.chunk.js": "/OrbiHealthTask/static/js/2.192bb8de.chunk.js",
+    "static/js/2.192bb8de.chunk.js.map": "/OrbiHealthTask/static/js/2.192bb8de.chunk.js.map",
+    "index.html": "/OrbiHealthTask/index.html",
+    "precache-manifest.9fcd54e2062556b43155df2158d2f3e6.js": "/OrbiHealthTask/precache-manifest.9fcd54e2062556b43155df2158d2f3e6.js",
+    "service-worker.js": "/OrbiHealthTask/service-worker.js",
+    "static/css/main.d7fb6431.chunk.css.map": "/OrbiHealthTask/static/css/main.d7fb6431.chunk.css.map",
+    "static/js/2.192bb8de.chunk.js.LICENSE.txt": "/OrbiHealthTask/static/js/2.192bb8de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1401d416.js",
+    "static/js/2.192bb8de.chunk.js",
+    "static/css/main.d7fb6431.chunk.css",
+    "static/js/main.956ec0f6.chunk.js"
+  ]
+}
